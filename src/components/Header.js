@@ -11,7 +11,7 @@ const Header = () => {
         <HeaderAvatar></HeaderAvatar>
         <AccessTimeIcon />
       </HeaderLeft>
-
+      {/* Search */}
       <HeaderSearch>
         <SearchIcon />
         <input placeholder="search #PAPA_FAM" />
